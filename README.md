@@ -64,7 +64,7 @@ $ cat data.txt | express -r '^[A-Z]'
 
 ``` shell
 # generate a more colorful output with extra information
-$ express -d -x -r 'o+' 'Foobar'
+$ express -d -x -r 'o+' 'A gooofy goon named Goofy gobbled up a goober of gooey goop.'
 ```
 
 ## History
