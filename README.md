@@ -9,7 +9,7 @@
 `express.py` is a simple and streamlined Python 3 script to explore regular expressions.
 
 While not as comfortable without a graphical user interface `express` was created as quick and simple drop-in-replacement for
-abandoned Mac OS X tools like Reginald or Reggy (both only available as 32-bit builds that are no longer supported
+abandoned Mac OS X tools like _Reginald_ or _Reggy_ (both only available as 32-bit builds that are no longer supported
 by recent versions of macOS).
 
 ## Requirements
@@ -76,3 +76,9 @@ $ express -d -x -r 'o+' 'A gooofy goon named Goofy gobbled up a goober of gooey 
         <td>Initial public source code release</td>
     </tr>
 </table>
+
+## Similar Tools
+
+* Reginald (Mac OS X only)
+* Reggy (Mac OS X only)
+* CMake's "Regular Expression Explorer"
